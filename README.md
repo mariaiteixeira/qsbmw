@@ -49,6 +49,8 @@ Abaixo, uma captura de tela de como ficou meu bucket no S3:
 
 <div align='center' style='display: inline_block'><img src="https://i.imgur.com/5YCNJZe.png" alt="Print dos dois objetos no bucket do S3: o dataset e o manifest"></div>
 
+E o dataset está disponível [neste link](https://www.kaggle.com/datasets/danielkyrka/bmw-pricing-challenge/data).
+
 ## Ao longo do projeto, as seguintes habilidades foram desenvolvidas:
 - Uso de buckets no S3;
 - Criação do `manifest.json`;
