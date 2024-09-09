@@ -1,8 +1,13 @@
 # Projeto QuickSight - Dataset de carros vendidos da BMW em um modelo B2B
 
-Este é um mini-projeto utilizando a solução **QuickSight** da AWS, para visualização de dados em modelos de Business Intelligence.
+Este é um mini-projeto utilizando a solução **QuickSight** da AWS, para visualização de dados em modelos de Business Intelligence. 
 
+<div align='center' style='display: inline_block'><img src="https://i.imgur.com/sF0gMy3.gif" alt="Gif do Dashboard feito no QuickSight, contendo diversos gráficos, porém com as cores diferentes"></div>
+
+<details>
+Versão 1:
 <div align='center' style='display: inline_block'><img src="https://i.imgur.com/SQo5asJ.gif" alt="Gif do Dashboard feito no QuickSight, contendo diversos gráficos"></div>
+</details>
 
 ## Sobre o projeto
 Este projeto foi inspirado no vídeo da [Tech With Lucy](https://www.youtube.com/watch?v=4-8cXuZzKTg&ab_channel=TechWithLucy), em que é explicado como usar o QuickSight e como utilizar os dados salvos em buckets do S3 com o `manifest.json`. Com o `manifest.json` é possível fazer a relação direta do `.csv` utilizado e salvo no S3.
